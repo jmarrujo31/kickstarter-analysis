@@ -15,7 +15,7 @@ The line chart below shows the Outcome by month (09-17)
 
 * 	April - June tend to be the best months for a launch date
 
-(resource/Outcome based on Launch Date.png)
+(jmarrujo31/resource/Outcome based on Launch Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
