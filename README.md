@@ -15,7 +15,7 @@ The line chart below shows the Outcome by month (09-17)
 
 * 	April - June tend to be the best months for a launch date
 
-(jmarrujo31/kickstarter-analysis/resource/Outcome based on Launch Date.png)
+(kickstarter-analysis/resource/Outcome based on Launch Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
